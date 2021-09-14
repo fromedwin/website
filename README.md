@@ -1,3 +1,3 @@
 # website
 
-[fromedwin.com](fromedwin.com)
+Say hi to [fromedwin.com](fromedwin.com)
