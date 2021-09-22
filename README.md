@@ -1,3 +1,3 @@
 # website
 
-Say hi to Edwin 🤖 at [fromedwin.com](https://fromedwin.com)
+Say hi to Edwin 🤖 on [fromedwin.com](https://fromedwin.com)
